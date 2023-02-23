@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532991112072",
+    "project_id": "day6-firebase",
+    "storage_bucket": "day6-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532991112072:android:45e7f4e334644a6604c03d",
+        "android_client_info": {
+          "package_name": "com.example.day6firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532991112072-0ai15qnol09vp8pk494ich2048e1gjdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZ15YCzyauI5ZsCAyu57jKHaey5Z6oSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532991112072-0ai15qnol09vp8pk494ich2048e1gjdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
